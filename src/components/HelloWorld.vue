@@ -15,12 +15,12 @@
 
       <v-flex mb-4>
         <h1 class="display-2 font-weight-bold mb-3">
-          Welcome to Vuetify
+          Welcome to Vuetify, Grant!
         </h1>
-        <p class="subheading font-weight-regular">
+        <p class="subheading font-weight-regular">Hey Web Developer,
           For help and collaboration with other Vuetify developers,
-          <br>please join our online
-          <a href="https://community.vuetifyjs.com" target="_blank">Discord Community</a>
+          <br>please join our online (or don't)
+          <a href="https://community.vuetifyjs.com" target="_blank">Discord Community (What What?!?!?)</a>
         </p>
       </v-flex>
 
